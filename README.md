@@ -1,6 +1,6 @@
 # 🚀 STARTIFY
 
-* **StartupLaunch** is a modern AI-powered startup platform built with **React + Vite + TypeScript + Tailwind CSS + Supabase**.
+* **STARTIFY** is a modern AI-powered startup platform built with **React + Vite + TypeScript + Tailwind CSS + Supabase**.
 
 * The platform helps **college students and aspiring founders transform ideas into real startups** by providing AI-powered tools, collaboration features, and a community-driven environment.
 
