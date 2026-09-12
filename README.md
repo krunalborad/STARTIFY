@@ -190,5 +190,3 @@ Possible future enhancements include:
 
 ### 🌐 Live Demo: https://startify-two.vercel.app
 ### 🌐 Live Demo: https://startuplaunch-one.vercel.app
-
-### 📦 GitHub Repository: https://github.com/krunalborad/StartupLaunch
